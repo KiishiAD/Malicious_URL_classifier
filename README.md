@@ -9,4 +9,5 @@ To run the code in this folder, ensure the following packages are installed:
 - Scikitlean
 - Cuml
 
-I plan to continue working on this project and possibly deploying the model for commercial use
+I have optimized the accuracy of this project using a hybrid ensemble feature selection method which can be found in the repository : https://github.com/KiishiAD/_Hybrid_Ensemble_Feature_Selection_Malicious_URL_Classification
+
